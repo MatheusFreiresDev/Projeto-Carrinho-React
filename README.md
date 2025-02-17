@@ -12,3 +12,7 @@ Projeto desenvolvido por **Matheus Freires**.
 - React  
 - Vite  
 - Css
+
+## 🎨 Ilustração
+
+![image](https://github.com/user-attachments/assets/a00d9344-0e7b-4cd6-a507-3d980c825252)
